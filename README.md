@@ -15,7 +15,7 @@ Desarrollado por **Goatted Labs**.
 
 ## 🚀 Descarga e Instalación
 
-1. Ve a la sección de **[Releases](https://www.google.co** en la barra lateral derecha de este repositorio.
+1. Ve a la sección de **[Releases]** en la barra lateral derecha de este repositorio.
 2. Descarga la versión más reciente (`Goatted Controller.app.zip`).
 3. Descomprime el archivo y arrastra **Goatted Controller** a tu carpeta de **Aplicaciones**.
 
@@ -44,25 +44,11 @@ Para que el control de Xbox funcione mientras juegas, transmites o usas la aplic
 ## 💻 Requisitos del Sistema
 
 * **Sistema Operativo:** macOS 12.0 o posterior (Compatible con Apple Silicon M1/M2/M3/M4 e Intel).
-* **Cámara:** DJI Osmo Pocket 3 o cualquier cámara compatible con el estándar UVC PTZ.
+* **Cámara:** DJI Osmo Pocket 3 en adelante o cualquier cámara compatible con el estándar UVC PTZ.
 * **Mando:** Control de Xbox Series X/S, Xbox One o cualquier gamepad USB HID estándar.
 
 ---
 
 ## 📄 Licencia
 
-Copyright © 2026 **Goatted Media**. Todos los derechos reservados.
-
----
-
-### 📁 Estructura de carpetas recomendada en tu repositorio:
-
-```text
-osmocontreol/
-├── docs/
-│   ├── app-preview.png   <-- Captura de la app abierta
-│   └── permissions.png   <-- Captura de los ajustes de Mac
-├── README.md             <-- Guarda este texto aquí
-└── ...
-
-```
+Copyright © 2026 **Goatted Labs**. Todos los derechos reservados.
