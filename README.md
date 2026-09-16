@@ -9,8 +9,7 @@ Desarrollado por **Goatted Labs**.
 
 
 ## 📸 Vista Previa
-<img width="887" height="756" alt="Captura de pantalla 2026-09-15 a la(s) 10 59 30 p m" src="https://github.com/user-attachments/assets/7e15fdc1-5fcb-40f7-8c83-27ca26a8a981" />
-<img width="603" height="511" alt="Captura de pantalla 2026-09-15 a la(s) 10 59 58 p m" src="https://github.com/user-attachments/assets/161d62b2-616a-4d08-ad69-250bf657f1fc" />
+<img width="800" height="300" alt="GOATTED-SNAP" src="https://github.com/user-attachments/assets/a3d80f0c-37a8-4520-8434-39589c433a09" />
 
 ---
 
