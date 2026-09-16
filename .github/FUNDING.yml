@@ -1,3 +1,2 @@
-mkdir -p .github && cat << 'EOF' > .github/FUNDING.yml
+# Configuración de patrocinio para Goatted Controller
 custom: ['https://donate.stripe.com/3cI9AU7xV1utd348Ms4Ni02']
-EOF
