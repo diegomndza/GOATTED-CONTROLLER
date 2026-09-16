@@ -1,0 +1,3 @@
+git add .github/FUNDING.yml
+git commit -m "Add Stripe donation link to FUNDING.yml"
+git push origin main
