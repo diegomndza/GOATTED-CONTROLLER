@@ -1,18 +1,22 @@
 # Goatted Controller
 
-Aplicación nativa para macOS que permite controlar la cámara **DJI Osmo Pocket 3** en segundo plano mediante un control de **Xbox** o mando USB.
+Aplicación nativa para macOS que permite controlar las siguientes cámaras
+**DJI Osmo Pocket 3,DJI Osmo Pocket 4 & DJI Osmo Pocket 4p** en segundo plano mediante un control de **Xbox (Series X o One)** o mando USB.
 
-Desarrollado por **Goatted Media**.
+Desarrollado por **Goatted Labs**.
 
----
+
+
 
 ## 📸 Vista Previa
+<img width="887" height="756" alt="Captura de pantalla 2026-09-15 a la(s) 10 59 30 p m" src="https://github.com/user-attachments/assets/7e15fdc1-5fcb-40f7-8c83-27ca26a8a981" />
+<img width="603" height="511" alt="Captura de pantalla 2026-09-15 a la(s) 10 59 58 p m" src="https://github.com/user-attachments/assets/161d62b2-616a-4d08-ad69-250bf657f1fc" />
 
 ---
 
 ## 🚀 Descarga e Instalación
 
-1. Ve a la sección de **[Releases](https://www.google.com/search?q=../../releases)** en la barra lateral derecha de este repositorio.
+1. Ve a la sección de **[Releases](https://www.google.co** en la barra lateral derecha de este repositorio.
 2. Descarga la versión más reciente (`Goatted Controller.app.zip`).
 3. Descomprime el archivo y arrastra **Goatted Controller** a tu carpeta de **Aplicaciones**.
 
